@@ -1,0 +1,38 @@
+.customer-top-panel{
+    width: 100%;
+    height: 80px;
+    background-color: #FFF;
+}
+
+.cus-search-input{
+color:#BDBDBD;
+font-size: 12.244px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+
+.btn-cus-search-icon{
+    color:#ADAEB5;
+}
+.cus-search-input::placeholder{
+    color:#ADAEB5;
+
+}
+
+.cus-search-input:focus{
+    color: #8a8a8f;
+    
+}
+
+.customer-search-bg{
+    background: #F9F9F9;
+    border-color: #F9F9F9;
+}
+
+.customer-search-bg:focus{
+    background: #F9F9F9;
+    border-color: #F9F9F9;
+}
+
